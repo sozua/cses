@@ -4,7 +4,8 @@
   "description": "",
   "main": "001-weird_algorithm.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:watch": "jest --watch"
   },
   "keywords": [],
   "author": "",
